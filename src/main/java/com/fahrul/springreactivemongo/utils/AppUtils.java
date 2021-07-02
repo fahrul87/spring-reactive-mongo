@@ -1,9 +1,9 @@
-package com.fahrul.springreactivemonggo.utils;
+package com.fahrul.springreactivemongo.utils;
 
 import org.springframework.beans.BeanUtils;
 
-import com.fahrul.springreactivemonggo.dto.ProductDto;
-import com.fahrul.springreactivemonggo.entity.Product;
+import com.fahrul.springreactivemongo.dto.ProductDto;
+import com.fahrul.springreactivemongo.entity.Product;
 
 public class AppUtils {
 

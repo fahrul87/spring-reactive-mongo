@@ -1,11 +1,11 @@
-package com.fahrul.springreactivemonggo.repository;
+package com.fahrul.springreactivemongo.repository;
 
 import org.springframework.data.domain.Range;
 import org.springframework.data.mongodb.repository.ReactiveMongoRepository;
 import org.springframework.stereotype.Repository;
 
-import com.fahrul.springreactivemonggo.dto.ProductDto;
-import com.fahrul.springreactivemonggo.entity.Product;
+import com.fahrul.springreactivemongo.dto.ProductDto;
+import com.fahrul.springreactivemongo.entity.Product;
 
 import reactor.core.publisher.Flux;
 

@@ -1,4 +1,4 @@
-package com.fahrul.springreactivemonggo.dto;
+package com.fahrul.springreactivemongo.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

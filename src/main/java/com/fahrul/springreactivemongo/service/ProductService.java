@@ -1,12 +1,12 @@
-package com.fahrul.springreactivemonggo.service;
+package com.fahrul.springreactivemongo.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Range;
 import org.springframework.stereotype.Service;
 
-import com.fahrul.springreactivemonggo.dto.ProductDto;
-import com.fahrul.springreactivemonggo.repository.ProductRepository;
-import com.fahrul.springreactivemonggo.utils.AppUtils;
+import com.fahrul.springreactivemongo.dto.ProductDto;
+import com.fahrul.springreactivemongo.repository.ProductRepository;
+import com.fahrul.springreactivemongo.utils.AppUtils;
 
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;

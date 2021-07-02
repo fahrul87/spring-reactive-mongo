@@ -1,4 +1,4 @@
-package com.fahrul.springreactivemonggo.controller;
+package com.fahrul.springreactivemongo.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.DeleteMapping;
@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.fahrul.springreactivemonggo.dto.ProductDto;
-import com.fahrul.springreactivemonggo.service.ProductService;
+import com.fahrul.springreactivemongo.dto.ProductDto;
+import com.fahrul.springreactivemongo.service.ProductService;
 
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
